@@ -1,4 +1,6 @@
 
 class Cliente {
+	
+	String cpf;
 
 }
